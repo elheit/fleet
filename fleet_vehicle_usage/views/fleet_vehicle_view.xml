@@ -26,7 +26,7 @@
             <xpath expr="//div[hasclass('oe_kanban_details')]" position="inside">
                 <span
                     class="label label-primary"
-                    invisible= "in_use == False"
+                    invisible="in_use == False"
                 >In use</span>
             </xpath>
         </field>

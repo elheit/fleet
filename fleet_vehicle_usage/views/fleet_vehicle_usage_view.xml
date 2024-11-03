@@ -46,29 +46,29 @@
                 <sheet>
                     <div class="oe_title">
                         <h1>
-                            <field name="name" 
-                                nolabel="1" 
-                                readonly="1"
-                            />
+                            <field name="name" nolabel="1" readonly="1" />
                         </h1>
                     </div>
                     <group>
                         <group>
-                            <field name="user_id" 
-                                readonly="state not in ['draft','reserved']" 
+                            <field
+                                name="user_id"
+                                readonly="state not in ['draft','reserved']"
                             />
-                            <field name="vehicle_id" 
-                                readonly="state not in ['draft','reserved']" 
+                            <field
+                                name="vehicle_id"
+                                readonly="state not in ['draft','reserved']"
                             />
                         </group>
                         <group>
-                            <field name="partner_id" 
-                                readonly="state not in ['draft','reserved']" 
+                            <field
+                                name="partner_id"
+                                readonly="state not in ['draft','reserved']"
                             />
                             <field
                                 name="company_id"
                                 groups="base.group_multi_company"
-                                readonly="state not in ['draft','reserved']" 
+                                readonly="state not in ['draft','reserved']"
                             />
                         </group>
                     </group>
@@ -78,7 +78,7 @@
                             <field
                                 name="picking_user_id"
                                 required="create_date != False"
-                                readonly="state not in ['draft','reserved']" 
+                                readonly="state not in ['draft','reserved']"
                             />
                             <field
                                 name="return_user_id"
@@ -88,10 +88,12 @@
                             />
                         </group>
                         <group>
-                            <field name="date_picking" 
-                                readonly="state not in ['draft','reserved']" 
+                            <field
+                                name="date_picking"
+                                readonly="state not in ['draft','reserved']"
                             />
-                            <field name="date_return" 
+                            <field
+                                name="date_return"
                                 invisible="state not in ('in_use','returned','cancel')"
                                 readonly="state in ('returned','cancel')"
                             />
