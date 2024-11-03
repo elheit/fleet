@@ -17,5 +17,5 @@
         "views/fleet_vehicle_usage_view.xml",
         "views/fleet_vehicle_view.xml",
     ],
-    "maintainers": ["victoralmau"],
+    "maintainers": ["elheit"],
 }

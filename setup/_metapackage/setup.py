@@ -8,7 +8,8 @@ setuptools.setup(
     description="Meta package for oca-fleet Odoo addons",
     version=version,
     install_requires=[
-        'odoo-addon-fleet_vehicle_usage>=16.0dev,<16.1dev',
+	'odoo-addon-fleet_vehicle_calendar_year>=17.0dev,<17.1dev',
+        'odoo-addon-fleet_vehicle_usage>=17.0dev,<17.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
