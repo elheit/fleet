@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[fleet_vehicle_calendar_year](fleet_vehicle_calendar_year/) | 17.0.1.0.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | This module extends the fleet management functionality. Allows the registration of the vehicle's calendar year.
 [fleet_vehicle_usage](fleet_vehicle_usage/) | 17.0.1.0.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | Fleet Vehicle Usage
 
 [//]: # (end addons)
