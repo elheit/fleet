@@ -26,7 +26,7 @@ addon | version | maintainers | summary
 [fleet_vehicle_configuration](fleet_vehicle_configuration/) | 17.0.1.0.0 |  | add vehicle configuration capacity
 [fleet_vehicle_fuel_capacity](fleet_vehicle_fuel_capacity/) | 17.0.1.0.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | This module extends the functionality of fleet management. It allows the registration of a vehicle's fuel capacity.
 [fleet_vehicle_fuel_type_ethanol](fleet_vehicle_fuel_type_ethanol/) | 17.0.1.0.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | This module extends the fleet management functionality. This adds ethanol as another type of fuel to be used by a vehicle in the fleet.
-[fleet_vehicle_service_kanban](fleet_vehicle_service_kanban/) | 16.0.1.1.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | Add features of kanban to logs of vehicle services.
+[fleet_vehicle_service_kanban](fleet_vehicle_service_kanban/) | 17.0.1.1.0 | [![elheit](https://github.com/elheit.png?size=30px)](https://github.com/elheit) | Add features of kanban to logs of vehicle services.
 
 [//]: # (end addons)
 
