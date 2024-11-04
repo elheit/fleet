@@ -13,6 +13,7 @@ setuptools.setup(
         'odoo-addon-fleet_vehicle_configuration>=17.0dev,<17.1dev',
         'odoo-addon-fleet_vehicle_fuel_capacity>=17.0dev,<17.1dev',
         'odoo-addon-fleet_vehicle_fuel_type_ethanol>=17.0dev,<17.1dev',
+        'odoo-addon-fleet_vehicle_service_kanban>=17.0dev,<17.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
