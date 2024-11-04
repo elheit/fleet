@@ -2,10 +2,10 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Fleet Vehicle Calendar Year",
+    "name": "Fleet Vehicle Fuel Type Ethanol",
     "summary": """
-        This module extends the fleet management functionality. Allows the
-        registration of the vehicle's calendar year.""",
+        This module extends the fleet management functionality. This adds ethanol
+        as another type of fuel to be used by a vehicle in the fleet.""",
     "version": "17.0.1.0.0",
     "license": "AGPL-3",
     "category": "Human Resources/Fleet",
@@ -15,8 +15,5 @@
     "website": "https://github.com/OCA/fleet",
     "depends": [
         "fleet",
-    ],
-    "data": [
-        "views/fleet_vehicle.xml",
     ],
 }

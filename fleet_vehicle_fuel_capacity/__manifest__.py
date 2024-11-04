@@ -10,7 +10,7 @@
     "license": "AGPL-3",
     "category": "Human Resources/Fleet",
     "author": "Escodoo,Odoo Community Association (OCA)",
-    "maintainers": ["marcelsavegnago"],
+    "maintainers": ["elheit"],
     "images": ["static/description/banner.png"],
     "website": "https://github.com/OCA/fleet",
     "depends": [
