@@ -8,9 +8,7 @@
         <field name="arch" type="xml">
             <notebook position="inside">
                 <page name="configurations" string="Configurations">
-                    <group>
-                        <field name="configuration_ids" nolabel="1" />
-                    </group>
+                    <field name="configuration_ids" nolabel="1" />
                 </page>
             </notebook>
         </field>

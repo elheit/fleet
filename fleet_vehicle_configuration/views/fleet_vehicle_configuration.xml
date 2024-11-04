@@ -23,7 +23,7 @@
                 <field name="sequence" widget="handle" />
                 <field name="name" />
                 <field name="max_seats" />
-                <field name="vehicle_id" invisible="1" />
+                <field name="vehicle_id" column_invisible="1" />
             </tree>
         </field>
     </record>

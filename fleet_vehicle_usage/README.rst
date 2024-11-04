@@ -63,7 +63,6 @@ Contributors
 
   - Víctor Martínez
   - Pedro M. Baeza
-  - Elheit Med Lamine
 
 Maintainers
 -----------
